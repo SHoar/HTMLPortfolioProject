@@ -45,3 +45,6 @@ a:hover {
   background: #aaa;
   padding: 10px 0 10px 0;
 }
+.contact li {
+  display: inline-block;
+}
